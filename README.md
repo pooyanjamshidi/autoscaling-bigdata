@@ -1,2 +1,2 @@
-# microservices-metrics-matlab
-Matlab library for application level metrics collection from Big Data technologies such as Apache Storm, Spark, Hadoop
+# autoscaling-bigdata
+A library features application level metrics collection, actuators for Big Data technologies such as Apache Storm, Spark, Hadoop and autoscaling controllers based on machine learning methods
